@@ -1,0 +1,1 @@
+Add mirror or relection effect to images on the site by changing their url.
